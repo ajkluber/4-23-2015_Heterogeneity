@@ -1,0 +1,104 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Clementi2000}
+C.~Clementi, P.~a. Jennings, J.~N. Onuchic,
+  \href{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=18526\&tool=pmcentrez\&rendertype=abstract}{{How
+  native-state topology affects the folding of dihydrofolate reductase and
+  interleukin-1beta.}}, Proc. Natl. Acad. Sci. 97~(11) (2000) 5871--6.
+\newblock \href {http://dx.doi.org/10.1073/pnas.100547897}
+  {\path{doi:10.1073/pnas.100547897}}.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=18526\&tool=pmcentrez\&rendertype=abstract}
+
+\bibitem{Matysiak2004}
+S.~Matysiak, C.~Clementi,
+  \href{http://www.ncbi.nlm.nih.gov/pubmed/15381433}{{Optimal combination of
+  theory and experiment for the characterization of the protein folding
+  landscape of S6: how far can a minimalist model go?}}, J. Mol. Biol. 343~(1)
+  (2004) 235--48.
+\newblock \href {http://dx.doi.org/10.1016/j.jmb.2004.08.006}
+  {\path{doi:10.1016/j.jmb.2004.08.006}}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/15381433}
+
+\bibitem{Matysiak2006}
+S.~Matysiak, C.~Clementi,
+  \href{http://www.ncbi.nlm.nih.gov/pubmed/16959265}{{Minimalist protein model
+  as a diagnostic tool for misfolding and aggregation.}}, J. Mol. Biol. 363~(1)
+  (2006) 297--308.
+\newblock \href {http://dx.doi.org/10.1016/j.jmb.2006.07.088}
+  {\path{doi:10.1016/j.jmb.2006.07.088}}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16959265}
+
+\bibitem{Cho2009a}
+S.~Cho, Y.~Levy, P.~Wolynes,
+  \href{http://www.pnas.org/content/106/2/434.short}{{Quantitative criteria for
+  native energetic heterogeneity influences in the prediction of protein
+  folding kinetics}}, Proc. Natl. Acad. Sci.
+\newline\urlprefix\url{http://www.pnas.org/content/106/2/434.short}
+
+\bibitem{Plotkin2002a}
+S.~S. Plotkin, J.~N. Onuchic,
+  \href{http://link.aip.org/link/JCPSA6/v116/i12/p5263/s1\&Agg=doi}{{Structural
+  and energetic heterogeneity in protein folding. I. Theory}}, J. Chem. Phys.
+  116~(12) (2002) 5263.
+\newblock \href {http://dx.doi.org/10.1063/1.1449866}
+  {\path{doi:10.1063/1.1449866}}.
+\newline\urlprefix\url{http://link.aip.org/link/JCPSA6/v116/i12/p5263/s1\&Agg=doi}
+
+\bibitem{Oztop2004}
+B.~\"{O}ztop, M.~Ejtehadi, S.~Plotkin,
+  \href{http://link.aps.org/doi/10.1103/PhysRevLett.93.208105}{{Protein Folding
+  Rates Correlate with Heterogeneity of Folding Mechanism}}, Phys. Rev. Lett.
+  93~(20) (2004) 208105.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.93.208105}
+  {\path{doi:10.1103/PhysRevLett.93.208105}}.
+\newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevLett.93.208105}
+
+\bibitem{Noel2012}
+J.~K. Noel, P.~C. Whitford, J.~N. Onuchic,
+  \href{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3406251\&tool=pmcentrez\&rendertype=abstract}{{The
+  shadow map: a general contact definition for capturing the dynamics of
+  biomolecular folding and function.}}, J. Phys. Chem. B 116~(29) (2012)
+  8692--702.
+\newblock \href {http://dx.doi.org/10.1021/jp300852d}
+  {\path{doi:10.1021/jp300852d}}.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3406251\&tool=pmcentrez\&rendertype=abstract}
+
+\bibitem{Noel2010}
+J.~K. Noel, P.~C. Whitford, K.~Y. Sanbonmatsu, J.~N. Onuchic,
+  \href{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2896113\&tool=pmcentrez\&rendertype=abstract}{{SMOG@ctbp:
+  simplified deployment of structure-based models in GROMACS.}}, Nucleic Acids
+  Res. 38~(Web Server issue) (2010) W657--61.
+\newblock \href {http://dx.doi.org/10.1093/nar/gkq498}
+  {\path{doi:10.1093/nar/gkq498}}.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2896113\&tool=pmcentrez\&rendertype=abstract}
+
+\bibitem{Marquardt1963}
+D.~Marquardt, \href{http://epubs.siam.org/doi/pdf/10.1137/0111030}{{An
+  algorithm for least-squares estimation of nonlinear parameters}}, J. Soc.
+  Ind. Appl. \ldots 11~(2).
+\newline\urlprefix\url{http://epubs.siam.org/doi/pdf/10.1137/0111030}
+
+\bibitem{Zwanzig1954}
+R.~W. Zwanzig,
+  \href{http://link.aip.org/link/JCPSA6/v22/i8/p1420/s1\&Agg=doi}{{High-Temperature
+  Equation of State by a Perturbation Method. I. Nonpolar Gases}}, J. Chem.
+  Phys. 22~(8) (1954) 1420.
+\newblock \href {http://dx.doi.org/10.1063/1.1740409}
+  {\path{doi:10.1063/1.1740409}}.
+\newline\urlprefix\url{http://link.aip.org/link/JCPSA6/v22/i8/p1420/s1\&Agg=doi}
+
+\bibitem{Cho2006}
+S.~S. Cho, Y.~Levy, P.~G. Wolynes,
+  \href{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1334664\&tool=pmcentrez\&rendertype=abstract}{{P
+  versus Q: structural reaction coordinates capture protein folding on smooth
+  landscapes.}}, Proc. Natl. Acad. Sci. 103~(3) (2006) 586--91.
+\newblock \href {http://dx.doi.org/10.1073/pnas.0509768103}
+  {\path{doi:10.1073/pnas.0509768103}}.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1334664\&tool=pmcentrez\&rendertype=abstract}
+
+\end{thebibliography}
