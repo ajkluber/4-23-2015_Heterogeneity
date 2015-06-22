@@ -58,6 +58,72 @@ B.~\"{O}ztop, M.~Ejtehadi, S.~Plotkin,
   {\path{doi:10.1103/PhysRevLett.93.208105}}.
 \newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevLett.93.208105}
 
+\bibitem{Portman2001a}
+J.~J. Portman, S.~Takada, P.~G. Wolynes,
+  \href{http://link.aip.org/link/JCPSA6/v114/i11/p5069/s1\&Agg=doi}{{Microscopic
+  theory of protein folding rates. I. Fine structure of the free energy profile
+  and folding routes from a variational approach}}, J. Chem. Phys. 114~(11)
+  (2001) 5069.
+\newblock \href {http://dx.doi.org/10.1063/1.1334662}
+  {\path{doi:10.1063/1.1334662}}.
+\newline\urlprefix\url{http://link.aip.org/link/JCPSA6/v114/i11/p5069/s1\&Agg=doi}
+
+\bibitem{Portman2001}
+J.~J. Portman, S.~Takada, P.~G. Wolynes,
+  \href{http://link.aip.org/link/JCPSA6/v114/i11/p5082/s1\&Agg=doi}{{Microscopic
+  theory of protein folding rates. II. Local reaction coordinates and chain
+  dynamics}}, J. Chem. Phys. 114~(11) (2001) 5082.
+\newblock \href {http://dx.doi.org/10.1063/1.1334663}
+  {\path{doi:10.1063/1.1334663}}.
+\newline\urlprefix\url{http://link.aip.org/link/JCPSA6/v114/i11/p5082/s1\&Agg=doi}
+
+\bibitem{Plotkin1998}
+S.~Plotkin, P.~Wolynes,
+  \href{http://link.aps.org/doi/10.1103/PhysRevLett.80.5015}{{Non-Markovian
+  Configurational Diffusion and Reaction Coordinates for Protein Folding}},
+  Phys. Rev. Lett. 80~(22) (1998) 5015--5018.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.80.5015}
+  {\path{doi:10.1103/PhysRevLett.80.5015}}.
+\newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevLett.80.5015}
+
+\bibitem{Plotkin2001}
+S.~Plotkin,
+  \href{http://onlinelibrary.wiley.com/doi/10.1002/prot.1154/full}{{Speeding
+  protein folding beyond the Gō model: How a little frustration sometimes
+  helps}}, Proteins Struct. Funct. Bioinforma. 345 (2001) 337--345.
+\newblock \href {http://dx.doi.org/10.1002/prot.0000}
+  {\path{doi:10.1002/prot.0000}}.
+\newline\urlprefix\url{http://onlinelibrary.wiley.com/doi/10.1002/prot.1154/full}
+
+\bibitem{Clementi2004}
+C.~Clementi, S.~Plotkin,
+  \href{http://onlinelibrary.wiley.com/doi/10.1110/ps.03580104/full}{{The
+  effects of nonnative interactions on protein folding rates: theory and
+  simulation}}, Protein Sci. (2004) 1750--1766\href
+  {http://dx.doi.org/10.1110/ps.03580104.Theoretical}
+  {\path{doi:10.1110/ps.03580104.Theoretical}}.
+\newline\urlprefix\url{http://onlinelibrary.wiley.com/doi/10.1110/ps.03580104/full}
+
+\bibitem{Wolynes1997}
+P.~Wolynes,
+  \href{http://www.nature.com/nsmb/journal/v4/n11/abs/nsb1197-871.html}{{As
+  simple as can be?}}, Nat. Struct. Mol. Biol.
+\newline\urlprefix\url{http://www.nature.com/nsmb/journal/v4/n11/abs/nsb1197-871.html}
+
+\bibitem{Chen2008}
+J.~Chen, J.~D. Bryngelson, D.~Thirumalai,
+  \href{http://www.ncbi.nlm.nih.gov/pubmed/19367923}{{Estimations of the size
+  of nucleation regions in globular proteins.}}, J. Phys. Chem. B 112~(50)
+  (2008) 16115--20.
+\newblock \href {http://dx.doi.org/10.1021/jp806161k}
+  {\path{doi:10.1021/jp806161k}}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19367923}
+
+\bibitem{Shakhnovich1998}
+E.~I. Shakhnovich, {Folding nucleus : specific or multiple ? Insights from
+  lattice models and experiments In this commentary , I compare and discuss
+  different} (1998) 108--111.
+
 \bibitem{Noel2012}
 J.~K. Noel, P.~C. Whitford, J.~N. Onuchic,
   \href{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3406251\&tool=pmcentrez\&rendertype=abstract}{{The

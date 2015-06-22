@@ -143,17 +143,6 @@ gyration and average collapse time of heteropolymer is a self-averaging
 property of sequences with the same hydrophobic content (average intrachain
 attraction). 
 
-Physical properties that can be captured.
-
-Statistical physics seeks to make general statements about characterize p.
-
-We want to characterize physical systems with simplified models.
-
-The physica
-
-because interactions.
-
-Self-averaging
 
 Considering all the contact energy distributions with similar characteristics
 (mean and variance), how do we show that ours leads to different physics?
@@ -161,9 +150,50 @@ Considering all the contact energy distributions with similar characteristics
 Hypothesis: Arbitrary heterogeneity will lead to 1) broadening of the
 transition and 2) lower free energy barrier.
 \cite{Plotkin2002a}
-\cite{Oztop2004}
+
+
+    Oztop and coworkers \cite{Oztop2004} have previously suggested that real
+proteins have significant energetic heterogeneity by comparing the dispersion
+of $\phi$-values to dispersion in contact loop lengths:
+$\overline{\delta\phi^2}$ vs. $\frac{\overline{\delta l^2}}{\overline{l^2}}$
 
 \section{Results}
+
+\subsection{Folding kinetics and thermodynamics}
+
+    Energetic heterogeneity alters the folded and unfolded states: the unfolded
+state has more residual structure and the folded state frays. This results in
+smaller smaller energetic and entropic changes upon folding $\Delta E_{N-U}$
+and $\Delta S_{N-U}$. The folding temperature usually lowers because the
+difference in energy decreases more than the difference in entropy $T_f \approx
+\frac{\Delta E_{N-U}}{k_B \Delta S_{N-U}}$. 
+
+    The theory of Plotkin and Onuchic \cite{Plotkin2002a} treats energetic and
+structural heterogeneity explicitly. According to the Plotkin theory a random
+perturbation to the contact energies will tend to lower the free energy barrier
+and this is seen in simulations of random perturbations to the homogeneous
+model. 
+
+
+    The configurational diffusion coefficient is not discussed in the theory of
+Plotkin. Energetic heterogeneity decreases the configurational diffusion
+coefficient. The theory of Portman and coworkers \cite{Portman2001a} supplies a
+method for calculating the rate law prefactor in terms of the dynamics of
+crossing the high-dimensional free energy saddle-point.
+
+
+\subsection{Folding mechanism}
+
+    For arbitray heterogeneity the folding nucleus shifts from globular
+(located in one place) to more ramified (broken in disconnected). The overall 
+locus of structure formation .
+    Mechanism
+
+ Energetic heterogeneity
+
+ The folded state becomes frayed with increasing heterogeneity. 
+    Folding temperatures usually go down because native state begins to fray
+
 We have found that structure-based models
 
 Adding energetic heterogeneity to the structure-based model for PDZ shifts the
@@ -200,16 +230,33 @@ crossing coordinate \cite{Portman2001,Portman2001a,Plotkin1998}.
 
 The effect of non-native interactions on folding rates \cite{Plotkin2001,Clementi2004}.
 
+    Simulations of replicas with randomly distributed native interactions
+indicate what features are shared amongst all parameter sets with the same
+heterogeneity. Random heterogeneity with the same variance as our optimized
+interactions represent the noise level.
+
+    Comparing replicas of the same random native heterogeneity to our optimized
+energies indicate what properties are generally shared between heterogeneous
+parameter sets versus what properties are specific to our results.
+
+    We discuss our results in the context of a Random Energy Model of folding 
+that treats native heterogeneity specifically \cite{Plotkin2002a}. 
+Mean-field theories of folding. 
+
+The importance of energetic heterogeneity could be considered. 
 
 If heterogeity is self-averaging.
 
 
 
-
-
 \begin{figure}
 \includegraphics[width=\textwidth]{figures/pdz_qearlyvsqlate_0_2.eps}
-%\includegraphics[scale=0.1]{figures/SH3BeforeAfter.pdf}
+\caption{Optimizing contact energies of the PDZ domain reveal folding through
+an alternative nucleus due to the coupling of energetic and entropic
+fluctuations. Reaction coordinates $Q_{early}$ ($Q_{late}$) are the number of
+contacts that form with more (less) than $0.5$ probabilty in homogeneous SBM
+transition state. Random perturbations of the same magnitude do not exhibit the
+same concerted shift in mechanism.}
 \end{figure}
 
 \section{Discussion}
@@ -279,13 +326,32 @@ region.
 
     Future work to design the beta hairpin of PDZ to favor nucleus 1.
 
-
     Gianni 2007 has previous suggested that PDZ captures the essential features
 of nucleation-condensation folding mechanisms whereby the transition state
 ensemble is a diffuse nucleus center around the termini. Frustration.
 
     All the parameters are not free in the sense that they are correlated. The
 Jacobian does not have full rank.
+
+    Protein desing 
+
+    See \cite{Wolynes1997} for discussion of capillarity model of folding. Issues
+raised are: the scaling of the effective size of the folding nucleus; the
+breadth of the interface separating folding and unfolded phases; the size
+scaling of the folding barrier; applicability of mean-field versus capillarity
+models of foldng; what are the size of the heterogeneity effects? ; 
+
+    According to the capillarity model of folding \cite{Wolynes1997} energetic 
+heterogeneity should roughen the interface bringing capillarity model.
+
+
+    See \cite{Klimov1998b} for discussion of ``multiple folding nuclei'' (MFN) 
+perspective of Thirumalai. See \cite{Chen2008}: discusses ``multiple folding
+nuclei'' versus ``diffuse nucleus model'' versus BW capillarity picture.
+
+    Shakhnovich has discussed a ``specific folding nucleus'' \cite{Shakhnovich1998}
+where specific interactions must be formed.
+
 
 \section{Materials and Methods}
 
